@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,25:FF4500,50:8A2BE2,75:00BFFF,100:32CD32&height=180&section=header&text=oxfordreason's%20Logic%20Lab%20🧠&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,25:FF4500,50:8A2BE2,75:00BFFF,100:32CD32&height=180&section=header&text=rice's%20Logic%20Lab%20🧠&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
