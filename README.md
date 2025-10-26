@@ -28,8 +28,7 @@
 
 <div align="center">
   Hello there! I'm <strong>rice</strong>, a vibe coder.<br/>
-  I enjoy delving into new technologies and contributing to the open-source community.<br/>
-  Let's connect and create something amazing!
+
 </div>
 
 <p align="center">
