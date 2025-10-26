@@ -27,7 +27,7 @@
 ## 💡 About Me
 
 <div align="center">
-  Hello there! I'm <strong>oxfordreason</strong>, a passionate developer focused on building robust and scalable software solutions.<br/>
+  Hello there! I'm <strong>rice</strong>, a vibe coder.<br/>
   I enjoy delving into new technologies and contributing to the open-source community.<br/>
   Let's connect and create something amazing!
 </div>
